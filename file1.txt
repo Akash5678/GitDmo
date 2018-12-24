@@ -14,5 +14,6 @@ This is it!
 		Login: <input></input>
 		Username:
 		Password:
+		submit:<input type: number></input>
 	</body>
 </html>
