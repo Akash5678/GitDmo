@@ -12,8 +12,8 @@ This is it!
 
 	<body>
 		Login: <input></input>
-		Username:
-		Password:
+		Username:<input type= 'text'>
+		Password:<input type='pass'>
 		submit:<input type: number></input>
 	</body>
 </html>
