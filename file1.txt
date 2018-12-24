@@ -11,8 +11,8 @@ This is it!
 	</head>
 
 	<body>
-		This is the body code.
-
-		welcome to new modification.
+		Login: <input></input>
+		Username:
+		Password:
 	</body>
 </html>
