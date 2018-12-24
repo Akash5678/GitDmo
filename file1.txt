@@ -1,1 +1,13 @@
 This is it!
+
+<html>
+
+	<head> 
+		This is the html code.
+
+	</head>
+
+	<body>
+		This is the body code.
+	</body>
+</html>
